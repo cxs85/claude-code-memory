@@ -1,0 +1,5 @@
+{
+  "agent": "Alice",
+  "shared_path": "/Users/you/shared-agent-folder",
+  "all_agents": ["Alice", "Bob"]
+}

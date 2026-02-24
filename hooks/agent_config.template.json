@@ -1,0 +1,5 @@
+{
+  "agent": "CHANGE_ME",
+  "shared_path": "CHANGE_ME_TO_SHARED_FOLDER_PATH",
+  "all_agents": ["CHANGE_ME"]
+}
